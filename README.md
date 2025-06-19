@@ -81,7 +81,7 @@ Backend: `https://your-backend.onrender.com`
 ## ✍️ Author
 
 Made with ❤️ by Yashendra Badal  
-[LinkedIn](https://www.linkedin.com/in/yashendra-badal/) | [GitHub](https://github.com/Yashendra-Badal)
+[LinkedIn](https://www.linkedin.com/in/yashendrabadal/) | [GitHub](https://github.com/ybpheno16)
 
 ---
 
